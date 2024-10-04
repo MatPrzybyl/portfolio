@@ -8,7 +8,7 @@ I would like to present You extended version of my CV on this portfolio page
 [LinkedIn](https://www.linkedin.com/in/mateuszz-przybylski/)
 
 # CV
-You can get my cv through google drive here: [CV](https://drive.google.com/file/d/15yMMzzdFglQ_fGpeyei6JOHp1cBAcVWG/view?usp=sharing).
+You can get my cv through google drive here: [CV](https://drive.google.com/file/d/11zYne6jppPUkjKRAE03OQYW7ul0MS3sQ/view?usp=sharing).
 
 # Skills
 - Automation Testing
