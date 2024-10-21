@@ -2,7 +2,7 @@
 Hello! 
 
 My name is Mateusz Przybylski. I am QA engineer graduated in computer science from the University of Gdańsk. Have 5 years of experience in backend and frontend testing, mainly in python and robot framework. Besides that keeps enhancing my testing knowledge through udemy and other course platforms.
-Privately enthusiast of gaming industry, tabletop games and tabletop games.
+Privately enthusiast of gaming industry and tabletop games.
 
 I would like to present You extended version of my CV on this portfolio page
 [LinkedIn](https://www.linkedin.com/in/mateuszz-przybylski/)
